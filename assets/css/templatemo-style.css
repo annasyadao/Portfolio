@@ -125,8 +125,8 @@ html {
 
 .main-nav li:hover a,
 .main-nav li.active a {
-    background: #fff;
-    color: #8c363e;
+    background: #F8E9A1;
+    color: #374785;
 }
 
 /* Sidebar Menu */
@@ -136,9 +136,9 @@ html {
 }
 
 .menu .image img {
-    width: 140px;
-    height: 140px;
+    width: 300px;
     border-radius: 50%;
+    
     text-align: center;
 }
 
@@ -223,7 +223,7 @@ html {
     left: 10%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
-  background-color: #a43f49;
+  background-color: #374785;
   box-sizing: border-box;
   height: 100vh;  
   max-height: 100vh !important;
